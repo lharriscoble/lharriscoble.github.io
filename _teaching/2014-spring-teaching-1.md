@@ -4,7 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
 venue: "University of Florida"
-location: "City, Country"
+#date: "2025-01-02"
+#location: "City, Country"
 ---
 
 I have been the instructor of record for Hungry Planet Geography of Crops since Spring 2023. I developed all of the materials for this course and I have taught it in both an in-person and online format.
