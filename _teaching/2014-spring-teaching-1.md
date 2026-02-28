@@ -24,8 +24,6 @@ Fader, M., Gerten, D., Krause, M., Lucht, W., & Cramer, W. (2013). Spatial decou
 Khoury, C.K., Achicanoy, H.A., Bjorkman, A.D., Navarro-Racines, C., Guarino, L., Flores-Palacios, X., Engels, J.M., Wiersema, J.H., Dempewolf, H., Sotelo, S. & Ramírez-Villegas, J., (2016). Origins of food crops connect countries worldwide. Proceedings of the royal society B: biological sciences, 283(1832), p.20160792.
 
 
-Agricultural Trade Data:
-
 Trade Data for Crop and Livestock Products: https://www.fao.org/faostat/en/#data/TCL
 
 Detailed Trade Matrix Data: https://www.fao.org/faostat/en/#data/TM
