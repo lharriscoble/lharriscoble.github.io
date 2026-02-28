@@ -30,7 +30,7 @@ Trade Data for Crop and Livestock Products: https://www.fao.org/faostat/en/#data
 Detailed Trade Matrix Data: https://www.fao.org/faostat/en/#data/TM
 
 
-Country Capitals csv: 
+Country Capitals csv: [country-capitals.csv](url)
 
 
 
