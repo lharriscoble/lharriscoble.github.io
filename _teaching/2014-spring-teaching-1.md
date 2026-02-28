@@ -28,7 +28,9 @@ Trade Data for Crop and Livestock Products: [<https://www.fao.org/faostat/en/#da
 Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https://www.fao.org/faostat/en/#data/TM>)
 
 
-Country Capitals csv: [country-capitals.csv](url)
+<div class="Country Capitals csv">
+  <a href="{{ base_path }}/files/country-capitals.csv" class="btn btn--primary">Download country capitals csv</a>
+</div>
 
 
 
