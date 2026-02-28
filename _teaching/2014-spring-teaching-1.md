@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
 venue: "University of Florida"
-date: 2014-01-01
 location: "City, Country"
 ---
 
