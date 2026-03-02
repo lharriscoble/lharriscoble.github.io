@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 <div class="Country Capitals csv">
-  <a href="{{ base_path }}/files/country-capitals.csv" class="btn btn--primary">Download country capitals csv</a>
+  <a href="{{ base_path }}/files/LHC_CV_UF_Phd.pdf" class="btn btn--primary">Download CV</a>
 </div>
 
