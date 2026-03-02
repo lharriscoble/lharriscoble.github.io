@@ -1,16 +1,17 @@
 ---
 permalink: /
-title: "Hi! I'm a geographer mapping agricultural trade networks"
+title: "Hi! I’m a geographer focused on mapping agricultural trade networks."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My research uses network analysis methods to map agricultural trade networks. Specifically I want to understand how border closures, disease outbreaks, droughts, and climatic factors affect regional trade in West Africa. She holds a Master of Sustainable Development Practice from the University of Florida. 
+My research applies network analysis to better understand how regional trade systems function and respond to disruption. In particular, I examine how border closures, disease outbreaks, droughts, and other climatic shocks influence agricultural trade across West Africa.
 
-My bachelors degree is in Ecology and my masters degree is in Sustainable Development Practice. Proir to joining the PhD program I was a project and research assistant at the USAID-funded Feed the Future Innovation Lab for Livestock Systems.
+I hold a Master of Sustainable Development Practice from the University of Florida. My academic background also includes a bachelor’s degree in Ecology from Columbia University. Before beginning my PhD, I worked as a project and research assistant with the USAID-funded Feed the Future Innovation Lab for Livestock Systems, where I supported research on livestock systems and development.
 
-In my free time I enjoy cooking, painting and jogging. 
+Outside of my research, I enjoy cooking, painting, and jogging.
+
 
 
