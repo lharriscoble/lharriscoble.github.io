@@ -27,7 +27,7 @@ The assignment is designed to help students move beyond abstract discussions of 
 
 Student reflections suggest that this activity meaningfully shifts how they understand global food systems. Many describe gaining a clearer sense of how crops circulate far beyond their places of origin and become embedded in distant food cultures. One student noted that mapping imports and exports helped them see how a crop could spread well beyond its native range and become part of diets around the world.
 
-Students have also said that visual nature of the assignment deepened their awareness of the interconnected nature of food systems, and encouraged them to see agricultural production, trade, and access as part of a complex global network shaped by social, economic, and environmental factors. Finally, some students in their reflections stated that the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
+Students have also said that visual nature of the assignment deepened their awareness of the interconnected nature of food systems, and encouraged them to see agricultural production and trade as part of a complex global network shaped by social, economic, and environmental factors. Finally, some students stated in their reflections that the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
 
 Recommended Readings:
 
