@@ -8,7 +8,12 @@ date: "2023-01-02"
 #location: "City, Country"
 ---
 
-I have been the instructor of record for Hungry Planet Geography of Crops since Spring 2023. I developed all of the materials for this course and I have taught it in both an in-person and online format.
+I have been the instructor of record for Hungry Planet: Geography of Crops since Spring 2023. I created all of the course materials, including lectures, assignments, assessments, and supporting resources, with the goal of building an engaging and interdisciplinary learning experience. The course examines global agricultural systems through a geographic perspective, encouraging students to think critically about how the geography of food production relates to environmental, political and social issues.
+
+I have taught this course in both in-person and online formats, adapting my teaching strategies for each environment while maintaining consistent learning outcomes. In the classroom, I emphasize discussion-based learning, interactive activities, and real-world case studies to help students connect course concepts to contemporary global issues. In the online format, I incorporate a mix of elements, including recorded lectures, discussion boards, to encourage engagement with the course content.
+
+A central component of the course is the development of practical geospatial skills. Through a sequence of five scaffolded mapping assignments, I teach students how to create and interpret maps using ArcGIS Pro and real-world agricultural datasets. These assignments guide students through foundational skills, such as data visualization and map design, allowing them to engage directly with the geographic patterns of crop production. By working with authentic data, students gain both technical proficiency and a deeper understanding of how spatial tools can be used to analyze global food systems.
+Across both modalities, I prioritize clarity, accessibility, and student engagement. I continuously refine course content based on student feedback and learning outcomes, ensuring that materials remain relevant and effective. My approach to teaching this course reflects a commitment to critical thinking, meeting the diverse needs of students, and helping students develop a deeper understanding of the geographic dimensions of global food systems.
 
 
 Teaching Networks Resources
