@@ -49,7 +49,9 @@ Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https:/
 
 Example of Student Work:
 
+(/images/banana_import_map_example.png)
 
+(/images/banana_export_map_example.png)
 
 
 
