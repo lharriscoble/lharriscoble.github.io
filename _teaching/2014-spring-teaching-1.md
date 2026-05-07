@@ -16,7 +16,7 @@ I have taught this course in both in-person and online formats, adapting my teac
 
 A central component of the course is the development of practical geospatial skills. Through a sequence of five scaffolded mapping assignments, I teach students how to create and interpret maps using ArcGIS Pro and real-world agricultural datasets. These assignments guide students through foundational skills, such as data visualization and map design, allowing them to engage directly with the geographic patterns of crop production. By working with authentic data, students gain both technical proficiency and a deeper understanding of how spatial tools can be used to analyze global food systems.
 
-Across both modalities, I prioritize clarity, accessibility, and student engagement. I continuously refine course content based on student feedback and learning outcomes, ensuring that materials remain relevant and effective. My approach to teaching this course reflects a commitment to critical thinking, meeting the diverse needs of students, and helping students develop a deeper understanding of the geographic dimensions of global food systems.
+Clarity, accessibility, and student engagement were prioritized across both modalities. I continuously refine course content based on student feedback and learning outcomes, ensuring that materials remain relevant and effective. My approach to teaching this course reflects a commitment to critical thinking, meeting the diverse needs of students, and helping students develop a deeper understanding of the geographic dimensions of global food systems.
 
 
 Teaching Networks Resources
