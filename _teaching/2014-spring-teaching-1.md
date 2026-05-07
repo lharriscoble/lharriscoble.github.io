@@ -19,7 +19,7 @@ A central component of the course is the development of practical geospatial ski
 Clarity, accessibility, and student engagement were prioritized across both modalities. I continuously refine course content based on student feedback and learning outcomes, ensuring that materials remain relevant and effective. My approach to teaching this course reflects a commitment to critical thinking, meeting the diverse needs of students, and helping students develop a deeper understanding of the geographic dimensions of global food systems.
 
 
-Teaching Networks Resources
+Teaching Networks Activity
 ======
 One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. 
 
@@ -29,6 +29,9 @@ Student reflections suggest that this activity meaningfully shifts how they unde
 
 Students have also said that visual nature of the assignment deepened their awareness of the interconnected nature of food systems, and encouraged them to see agricultural production and trade as part of a complex global network shaped by social, economic, and environmental factors. Finally, some students stated in their reflections that the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
 
+
+Teaching Materials
+======
 Recommended Readings:
 
 D'odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth's future, 2(9), 458-469. [<https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014EF000250?utm_source=consensus>](<https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014EF000250?utm_source=consensus>)
@@ -44,7 +47,8 @@ Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https:/
 Download Country Capitals csv file [here](/files/country-capitals.csv)
 
 
-Example of Student Work:
+Examples of Student Work
+======
 
 ![Alt text](/images/banana_export_map_example.png)
 
