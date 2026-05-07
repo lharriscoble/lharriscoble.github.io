@@ -21,11 +21,11 @@ Across both modalities, I prioritize clarity, accessibility, and student engagem
 
 Teaching Networks Resources
 ======
-One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions and markets.
+One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions and markets. It can also be used as an entry point to for teaching students about the concept of social network analysis and network concepts such as centrality or communities. 
 
 Student reflections suggest that this activity meaningfully shifts how they understand global food systems. Many describe gaining a clearer sense of how crops circulate far beyond their places of origin and become embedded in distant food cultures. One student noted that mapping imports and exports helped them see how a crop could spread well beyond its native range and become part of diets around the world.
 
-This activity can also initiate broader conceptual shifts in how they percieve the geography of crops. One student reflected, the assignment deepened their awareness of the interconnected nature of food systems, encouraging them to see agricultural production, trade, and access as part of a complex global network shaped by social, economic, and environmental factors. They also described how the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
+Students have also said that visual nature of the assignment deepened their awareness of the interconnected nature of food systems, and encouraged them to see agricultural production, trade, and access as part of a complex global network shaped by social, economic, and environmental factors. Finally, some students in their reflections stated that the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
 
 Recommended Readings:
 
@@ -35,7 +35,7 @@ Fader, M., Gerten, D., Krause, M., Lucht, W., & Cramer, W. (2013). Spatial decou
 
 Khoury, C.K., Achicanoy, H.A., Bjorkman, A.D., Navarro-Racines, C., Guarino, L., Flores-Palacios, X., Engels, J.M., Wiersema, J.H., Dempewolf, H., Sotelo, S. & Ramírez-Villegas, J., (2016). Origins of food crops connect countries worldwide. Proceedings of the royal society B: biological sciences, 283(1832), p.20160792.
 
-Trade Data for Crop and Livestock Products: [<https://www.fao.org/faostat/en/#data/TCL>](<https://www.fao.org/faostat/en/#data/TCL>)
+Trade Data for Top Importers and Exporters of Crop and Livestock Products: [<https://www.fao.org/faostat/en/#data/TCL>](<https://www.fao.org/faostat/en/#data/TCL>)
 
 Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https://www.fao.org/faostat/en/#data/TM>)
 
