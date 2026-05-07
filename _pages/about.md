@@ -13,7 +13,7 @@ I am a teaching assistant in the UF Geography Department, where I have drawn on 
 
 I hold a Master of Sustainable Development Practice from the University of Florida. My academic background also includes a bachelor’s degree in Ecology from Columbia University. Before beginning my PhD, I worked as a project and research assistant with the USAID-funded Feed the Future Innovation Lab for Livestock Systems, where I supported research on livestock systems and development.
 
-Outside of my research, I enjoy cooking, painting, and jogging. I also dabble in science communication by posting maps on the.crop.geographer instagram page. 
+Outside of my research, I enjoy cooking, painting, and jogging. I also dabble in science communication by posting maps on @the.crop.geographer instagram page. 
 
 
 
