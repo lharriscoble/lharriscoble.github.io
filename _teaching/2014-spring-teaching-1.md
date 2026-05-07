@@ -41,12 +41,8 @@ Trade Data for Top Importers and Exporters of Crop and Livestock Products: [<htt
 
 Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https://www.fao.org/faostat/en/#data/TM>)
 
+Download country capitals [csv]({{ base_path }}/files/country-capitals.csv)
 
-<div class="Country Capitals csv">
-  <a href="{{ base_path }}/files/country-capitals.csv" class="btn btn--primary">Download country capitals csv</a>
-</div>
-
-<br><br>
 
 Example of Student Work:
 
