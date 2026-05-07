@@ -21,7 +21,9 @@ Clarity, accessibility, and student engagement were prioritized across both moda
 
 Teaching Networks Resources
 ======
-One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions and markets. It can also be used as an entry point to for teaching students about the concept of social network analysis and network concepts such as centrality or communities. 
+One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. 
+
+The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions. It can also be used as an entry point to for teaching students about the concept of social network analysis and network concepts such as centrality or communities. 
 
 Student reflections suggest that this activity meaningfully shifts how they understand global food systems. Many describe gaining a clearer sense of how crops circulate far beyond their places of origin and become embedded in distant food cultures. One student noted that mapping imports and exports helped them see how a crop could spread well beyond its native range and become part of diets around the world.
 
