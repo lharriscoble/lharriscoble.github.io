@@ -46,8 +46,7 @@ Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https:/
   <a href="{{ base_path }}/files/country-capitals.csv" class="btn btn--primary">Download country capitals csv</a>
 </div>
 
-
-
+<br><br>
 
 Example of Student Work:
 
