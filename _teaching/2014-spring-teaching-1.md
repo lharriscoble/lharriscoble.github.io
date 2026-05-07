@@ -8,7 +8,9 @@ date: "2023-01-02"
 #location: "City, Country"
 ---
 
-I have been the instructor of record for Hungry Planet: Geography of Crops since Spring 2023. I created all of the course materials, including lectures, assignments, assessments, and supporting resources, with the goal of building an engaging and interdisciplinary learning experience. The course examines global agricultural systems through a geographic perspective, encouraging students to think critically about how the geography of food production relates to environmental, political and social issues.
+I have been the instructor of record for Hungry Planet: Geography of Crops since Spring 2023 for the Fall and Spring semesters. 
+
+I created all of the course materials, including lectures, assignments, assessments, and supporting resources, with the goal of building an engaging and interdisciplinary learning experience. The course examines global agricultural systems through a geographic perspective, encouraging students to think critically about how the geography of food production relates to environmental, political and social issues.
 
 I have taught this course in both in-person and online formats, adapting my teaching strategies for each environment while maintaining consistent learning outcomes. In the classroom, I emphasize discussion-based learning, interactive activities, and real-world case studies to help students connect course concepts to contemporary global issues. In the online format, I incorporate a mix of elements, including recorded lectures, discussion boards, to encourage engagement with the course content.
 
@@ -19,7 +21,11 @@ Across both modalities, I prioritize clarity, accessibility, and student engagem
 
 Teaching Networks Resources
 ======
-Here are the resources needed to implement the "Visualizing Agricultural Trade Networks" activity.
+One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions and markets.
+
+Student reflections suggest that this activity meaningfully shifts how they understand global food systems. Many describe gaining a clearer sense of how crops circulate far beyond their places of origin and become embedded in distant food cultures. One student noted that mapping imports and exports helped them see how a crop could spread well beyond its native range and become part of diets around the world.
+
+This activity can also initiate broader conceptual shifts in how they percieve the geography of crops. One student reflected, the assignment deepened their awareness of the interconnected nature of food systems, encouraging them to see agricultural production, trade, and access as part of a complex global network shaped by social, economic, and environmental factors. They also described how the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
 
 Recommended Readings:
 
