@@ -30,7 +30,7 @@ Student reflections suggest that this activity meaningfully shifts how they unde
 Students have also said that visual nature of the assignment deepened their awareness of the interconnected nature of food systems, and encouraged them to see agricultural production and trade as part of a complex global network shaped by social, economic, and environmental factors. Finally, some students stated in their reflections that the activity sparked a stronger interest in sustainable development, particularly issues of food access and environmental justice, while prompting more critical reflection on the origins of the food they consume and the inequalities embedded within global supply chains.
 
 
-Teaching Materials
+Activity Materials
 ======
 Recommended Readings:
 
