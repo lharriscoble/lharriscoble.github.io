@@ -31,11 +31,11 @@ Students have also said that visual nature of the assignment deepened their awar
 
 Recommended Readings:
 
-D'odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth's future, 2(9), 458-469.
+D'odorico, P., Carr, J. A., Laio, F., Ridolfi, L., & Vandoni, S. (2014). Feeding humanity through global food trade. Earth's future, 2(9), 458-469. [<https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2014EF000250?utm_source=consensus >]
 
-Fader, M., Gerten, D., Krause, M., Lucht, W., & Cramer, W. (2013). Spatial decoupling of agricultural production and consumption: quantifying dependences of countries on food imports due to domestic land and water constraints. Environmental research letters, 8(1), 014046.
+Fader, M., Gerten, D., Krause, M., Lucht, W., & Cramer, W. (2013). Spatial decoupling of agricultural production and consumption: quantifying dependences of countries on food imports due to domestic land and water constraints. Environmental research letters, 8(1), 014046. [<https://iopscience.iop.org/article/10.1088/1748-9326/8/1/014046/pdf>] 
 
-Khoury, C.K., Achicanoy, H.A., Bjorkman, A.D., Navarro-Racines, C., Guarino, L., Flores-Palacios, X., Engels, J.M., Wiersema, J.H., Dempewolf, H., Sotelo, S. & Ramírez-Villegas, J., (2016). Origins of food crops connect countries worldwide. Proceedings of the royal society B: biological sciences, 283(1832), p.20160792.
+Khoury, C.K., Achicanoy, H.A., Bjorkman, A.D., Navarro-Racines, C., Guarino, L., Flores-Palacios, X., Engels, J.M., Wiersema, J.H., Dempewolf, H., Sotelo, S. & Ramírez-Villegas, J., (2016). Origins of food crops connect countries worldwide. Proceedings of the royal society B: biological sciences, 283(1832), p.20160792. [<https://royalsocietypublishing.org/rspb/article/283/1832/20160792/78122>] 
 
 Trade Data for Top Importers and Exporters of Crop and Livestock Products: [<https://www.fao.org/faostat/en/#data/TCL>](<https://www.fao.org/faostat/en/#data/TCL>)
 
