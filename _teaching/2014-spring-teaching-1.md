@@ -46,7 +46,7 @@ Detailed Trade Matrix Data: [<https://www.fao.org/faostat/en/#data/TM>](<https:/
 
 Download Country Capitals csv file [here](/files/country-capitals.csv)
 
-Full assignment file [here](/files/Map Assignment 4 Instructions_online_accessibilitychecked.docx)
+Full assignment file [here](/files/Map%20Assignment%204%20Instructions_online_accessibilitychecked.docx)
 
 
 Examples of Student Work
