@@ -317,6 +317,15 @@
     font-size: $type-size-5;
     text-decoration: none;
 
+     // Prevent footer from overlapping sidebar links
+.sidebar {
+  padding-bottom: 80px;
+}
+
+.author__urls-wrapper {
+  padding-bottom: 80px;
+}
+
     &:hover {
       text-decoration: underline;
     }
