@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+---
+# Front matter blocks tell Jekyll to process this file
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// --- Your Custom Overrides ---
+.sidebar, 
+.sticky, 
+.sidebar__right.sticky {
+  position: relative !important;
+  top: 0 !important;
+}
