@@ -103,19 +103,20 @@
     list-style: none;
     font-size: $type-size-6;
 
-    a {
-      display: block;
-      padding: 0.25rem 0;
-      color: var(--global-text-color);
-      font-size: $type-size-7;
-      font-weight: normal;
-      line-height: 1.5;
-      border-bottom: 0;
-
-      &:hover {
-        text-decoration: underline;
-      }
+     a {
+    display: block;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: inherit;
+    font-size: $type-size-5;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
     }
+  }
+}
 
     > li > a {
       font-weight: bold;
@@ -330,4 +331,14 @@
       text-decoration: underline;
     }
   }
+}
+
+
+// Prevent footer from overlapping sidebar links
+.sidebar {
+  padding-bottom: 80px;
+}
+
+.author__urls-wrapper {
+  padding-bottom: 80px;
 }
