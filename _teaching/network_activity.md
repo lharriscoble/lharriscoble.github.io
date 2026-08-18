@@ -1,6 +1,10 @@
+---
+layout: single
+title: "Teaching Networks Activity"
+permalink: /teaching/network_activity/
+author_profile: true
+---
 
-Teaching Networks Activity
-======
 One activity I am particularly proud of — and would like to share — is the “Visualizing Agricultural Trade Networks” mapping assignment. In this project, students use trade data from the FAO alongside foundational mapping skills in ArcGIS Pro to create a map illustrating the trade connections of both a major exporter and importer for a crop of their choice. 
 
 The assignment is designed to help students move beyond abstract discussions of globalization by visually tracing the movement of crops across regions. It can also be used as an entry point for teaching students about  social network analysis and network concepts such as centrality or communities. 
