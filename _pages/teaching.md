@@ -15,7 +15,7 @@ Click on a course below to see the syllabus and course evaluations.
 
 | Course | Title | Semester | Role | Modality |
 |--------|-------|----------|------|
-| GEA 3405 | Latin American Geography | Fall 2022 | TA | Online |
+| GEA 3405 | [Geography of Latin America](/teaching/gea3405) | Fall 2022 | TA | Online |
 | GEO 2315 | [Hungry Planet - Geography of Crops](/teaching/geo2315) | Spring 2023 | Instructor | In-Person |
 | GEO 2315 | [Hungry Planet - Geography of Crops](/teaching/geo2315) | Fall 2023 | Instructor | In-Person |
 | GEO 2315 | [Hungry Planet - Geography of Crops](/teaching/geo2315) | Spring 2024 | Instructor | In-Person |
