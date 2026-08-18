@@ -30,4 +30,4 @@ Click on a course below to see the syllabus and course evaluations.
 
 
 ## Teaching Networks
-In addition to teaching and grading, I also worked on a paper for a special issue in Connections on teaching networks based on one of my activities developed for Hungry Planet. [See here] (/teaching/network_activity) for the link to all of the resources for that activity. 
+In addition to teaching and grading, I also worked on a paper for a special issue in Connections on teaching networks based on one of my activities developed for Hungry Planet. [See here](/teaching/network_activity) for the link to all of the resources for that activity. 
