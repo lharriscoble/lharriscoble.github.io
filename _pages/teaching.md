@@ -6,7 +6,9 @@ author_profile: true
 ---
  
 I have experience as both a TA and an instructor of record for multiple courses within the Geography department. 
-I developed all of the materials for the GEO 2315 Hungry Planet Geography of Crops course (in-person and online) as well as the GEO 2315 Geographic Sciences and Sustainability course (in-person). Click on a course below to see the syllabus and course evaluations. 
+I developed all of the materials for the GEO 2315 Hungry Planet Geography of Crops course (in-person and online) as well as the GEO 2315 Geographic Sciences and Sustainability course (in-person). 
+
+Click on a course below to see the syllabus and course evaluations. 
 
 
 ## Courses Taught
