@@ -26,4 +26,6 @@ I developed all of the materials for the GEO 2315 Hungry Planet Geography of Cro
 | GEO 3452 | Introduction to Medical Geography | Summer 2026 | Instructor | Online |
 | GEO 2351 | Geographic Science and Sustainability | Fall 2026 | Instructor | In-Person |
 
+
+## Teaching Networks
 In addition to teaching and grading, I also worked on a paper for a special issue in Connections on teaching networks based on one of my activities developed for Hungry Planet. See here for the link to all of the resources for that activity. 
