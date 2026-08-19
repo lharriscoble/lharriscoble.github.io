@@ -22,7 +22,7 @@ Click on a course below to see the syllabus and course evaluations.
 | GEO 2500 | [Global and Regional Economies](/teaching/geo2500) | Summer 2024 | TA | Online |
 | GEO 2315 | [Hungry Planet - Global Geographies of Food](/teaching/geo2315) | Fall 2024 | Instructor | In-Person |
 | GEO 2315 | [Hungry Planet - Global Geographies of Food](/teaching/geo2315) | Spring 2025 | Instructor | In-Person |
-| GEO 2200 | Dynamic Planet Earth Lab | Summer 2025 | TA | Online |
+| GEO 2200 | [Dynamic Planet Earth Lab](/teaching/geo2200) | Summer 2025 | TA | Online |
 | GEO 2315 | [Hungry Planet - Global Geographies of Food](/teaching/geo2315) | Fall 2025 | Instructor | Online |
 | GEO 2315 | [Hungry Planet - Global Geographies of Food](/teaching/geo2315) | Spring 2026 | Instructor | Online |
 | GEO 3452 | Introduction to Medical Geography | Summer 2026 | Instructor | Online |
