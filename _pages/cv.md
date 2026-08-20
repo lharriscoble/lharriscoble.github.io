@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<div class="Country Capitals csv">
-  <a href="{{ base_path }}/files/LHC_CV_UF_Phd.pdf" class="btn btn--primary">Download CV</a>
-</div>
+<iframe src="/files/CV_2026.pdf" width="100%" height="600px">
+</iframe>
 
